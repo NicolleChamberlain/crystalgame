@@ -1,0 +1,58 @@
+
+
+
+
+.container {
+    text-align: center;
+    color: purple;
+
+
+
+}
+
+
+
+.container2 {
+    
+}
+
+.col-md-6 {
+    border-style: solid;
+    border-color: blue;
+    padding: 20px;
+
+
+}
+
+.col-md-6 {
+    border-style: solid;
+    border-color: blue;
+    padding: 20px;
+
+}
+
+.row {
+
+
+}
+
+.col-xs-3 {
+ border-width: medium;
+
+
+}
+
+.container3 {
+    border-style: solid;
+    border-color: blue;
+    padding: 20px;
+
+
+}
+
+p{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+
+}
